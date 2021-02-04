@@ -2,7 +2,7 @@
 
 ### Favorite Fantasy Books (Series + Standalone)
 
-1. Lightbringer Series (5 books) - Brent Weeks
+1. [Lightbringer Series](./lightbringer.md) (5 books) - Brent Weeks
     1. The Black Prism
     2. The Blinding Knife
     3. The Broken Eye
