@@ -1,4 +1,4 @@
-# Book List
+# Shaefer's Fiction Book List
 
 ### Favorite Fantasy Books (Series + Standalone)
 
